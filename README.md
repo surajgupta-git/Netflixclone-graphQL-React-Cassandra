@@ -1,5 +1,5 @@
 <!--- STARTEXCLUDE --->
-# 🎓 Netflix Clone using Astra DB and GraphQL
+# 🎓 Netflix Clone using Astra DB, GraphQL and Netlify
 
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/from-referrer/)
 [![License Apache2](https://img.shields.io/hexpm/l/plug.svg)](http://www.apache.org/licenses/LICENSE-2.0)

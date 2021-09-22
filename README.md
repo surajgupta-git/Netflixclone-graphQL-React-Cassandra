@@ -1,3 +1,5 @@
+Deployment: https://pensive-wilson-352418.netlify.app/
+
 <!--- STARTEXCLUDE --->
 # 🎓 Netflix Clone using Astra DB, GraphQL and Netlify
 
